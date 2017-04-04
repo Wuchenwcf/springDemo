@@ -5,3 +5,4 @@
 
 本文所述程序是通过Eclipse建立的标准Maven Web工程，因为用到Spring Mvc,所以需要在Maven pom.xml添加依赖的Spring jar包;
 本项目已经发布在http://www.chongfer.cn/springDemo/
+更多内容，请参考本人博客：http://blog.csdn.net/luchengtao11/article/details/69062291
